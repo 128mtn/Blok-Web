@@ -291,4 +291,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   4. De checklist ingevuld door Yani (https://drive.google.com/file/d/1fStULnV80jF6cgvxsACLnOJqKiWXia3l/view?usp=sharing)
 
+  5. Video over hamburger menu (https://www.youtube.com/watch?v=QQlxvj_GKss&t=96s)
+
+  6. Playlist met informatieve filmpjes over responsive design (https://www.youtube.com/watch?v=PM3XW_1RAIs&list=PL4cUxeGkcC9hH1tAjyUPZPjbj-7s200a4&pp=iAQB)
+
 </details>
