@@ -58,7 +58,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Een andere test was voor slechtzienden. Hiervoor heb ik geprobeerd de text to speech functie te gebruiken. Hier was niet heel veel op aan te merken, het las alles gewoon voor en werkte prima. Het enige vervelende was dat de home pagina gigantisch lang is, waardoor het maar blijft praten. Dit kan heel vermoeiend zijn, dus wil ik mijn home pagina zeker een stuk korter hebben.
 
-  Daarnaast moesten wij elkaars websites beoordelen door middel van een formulier. Hierbij gingen we elkaars websites langs en gingen we controleren of bepaalde dingen het wel of niet deden. Yani heeft mijn site gecheckt en hieruit bleek dus dat er best wel wat errors waren. Uit deze test heb ik dus veel mee kunnen nemen om de site te verbeteren.
+  Daarnaast moesten wij elkaars websites beoordelen door middel van een toegankelijkheidstest. Hierbij gingen we elkaars websites langs en gingen we controleren of bepaalde dingen het wel of niet deden. Yani heeft mijn site gecheckt en hieruit bleek dus dat er best wel wat errors waren. 
+  
+  -IMG tag's waren niet benoemd met een alt tag
+  -Bijna alles is een H1 of P
+  -Bijna geen alt tags, img's en icons worden niet beschreven
+  
+  Dit is dus iets wat ik zelf wel ga moeten verbeteren!
+
+  
 
 </details>
 
@@ -70,7 +78,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="/Users/martin/Desktop/Scherm­afbeelding 2024-01-23 om 16.43.16.png" width="375px" alt="breakdown van de hele pagina">
+  https://drive.google.com/file/d/1jGz_CryvCFRrTkL7Ve-y3sPzqnzuqlRv/view?usp=sharing
 
   ### dynamisch deel (bijv menu): 
   <img src="readme-images/Scherm­afbeelding 2024-01-23 om 16.46.52.png" width="375px" alt="breakdown van een dynamisch deel">
@@ -128,7 +136,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Ik had niet super veel content in mijn site om mee te testen, dus had ik het gedaan met wat ik had. Ik ging met TAB door de website heen en dat ging prima. Verder zag alles er qua vormgeving wel prima uit dus heb ik daar niet veel aan veranderd.
+  Ik had niet super veel content in mijn site om mee te testen, dus had ik het gedaan met wat ik had. Ik ging met TAB door de website heen en dat ging prima. Verder zag alles er qua vormgeving wel prima uit dus heb ik daar niet veel aan veranderd. Wat wel is opgemerkt is dat bij de screen reader het niet helemaal soepel ging. Dit kwam omdat mijn benoeming van koppen niet helemaal optimaal was. Dit heb ik dus ook aangepast! 
+
+  Daarnaast waren er images die ik niet had benoemd met de alt tag, dus dit heb ik ook meteen even gewijzigd!
 
 </details>
 
@@ -272,6 +282,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. Een uitleg over responsive design  ( Master Media Queries And Responsive CSS Web Design Like a Chameleon!  https://www.youtube.com/watch?v=K24lUqcT0Ms&t=380s )
 
   2. ChatGPT (Dit heb ik gebruikt omdat er een error in mijn code was die ik niet kon vinden, dus heb ik chatGPT de error laten aanwijzen. Daarnaast heb ik af een toe wat vragen gesteld)
+
+  <img src="readme-images/Scherm­afbeelding 2024-01-24 om 11.53.59.png" width="375px" alt="chatvraag">
+  <img src="readme-images/Scherm­afbeelding 2024-01-24 om 11.54.18.png" width="375px" alt="chatantwoord">
+
 
   3. Danny's Github video ;) (https://www.youtube.com/watch?v=Tz8uNxjGHM0)
 

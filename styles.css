@@ -92,7 +92,7 @@ body {
     display: none;
 }
 
-@media(max-width: 1413px) {
+@media(max-width: 1700px) {
     .menu {
         flex-direction: column;
         align-items: center;
@@ -464,7 +464,7 @@ footer address {
 
 
 /******************** header + nav ********************/
-@media(max-width: 1713px) {
+@media(max-width: 1700px) {
     .menu {
         flex-direction: column;
         align-items: center;
