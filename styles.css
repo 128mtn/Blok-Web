@@ -92,7 +92,7 @@ body {
     display: none;
 }
 
-@media(max-width: 1713px) {
+@media(max-width: 1413px) {
     .menu {
         flex-direction: column;
         align-items: center;
@@ -375,7 +375,7 @@ body {
 
 
 
-.merk h3 {
+.merk h2 {
     font-size: 32px;
     text-transform: uppercase;
 }
@@ -438,7 +438,7 @@ footer {
     padding: 4em;
 }
 
-footer h5 {
+footer h2 {
     font-size: 1.5em;
 }
 
