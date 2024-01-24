@@ -275,4 +275,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   3. Danny's Github video ;) (https://www.youtube.com/watch?v=Tz8uNxjGHM0)
 
+  4. De checklist ingevuld door Yani (https://drive.google.com/file/d/1fStULnV80jF6cgvxsACLnOJqKiWXia3l/view?usp=sharing)
+
 </details>
